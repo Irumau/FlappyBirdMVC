@@ -36,8 +36,10 @@ La lógica no está aglomerada. Se divide en gestores específicos:
 * `CoinManager`: Controla los patrones de aparición de monedas y zonas de seguridad (Hitbox safety).
 * `PortalManager`: Lógica de aparición y activación del modo Bonus.
 * `SoundManager`: Gestión centralizada de efectos de sonido y música.
-###
+## 🎮 Controles
+
 | Tecla / Acción | Función |
+| :--- | :--- |
 | **ESPACIO / Click Izq.** | Saltar / Iniciar Juego |
 | **R** | Reiniciar (en pantalla de Game Over) |
 | **M** | Volver al Menú (en pantalla de Game Over) |
