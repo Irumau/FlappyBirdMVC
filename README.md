@@ -57,6 +57,7 @@ La lógica no está aglomerada. Se divide en gestores específicos:
 | Menú Principal | Gameplay | Modo Bonus |
 | :---: | :---: | :---: |
 ![MENU]<img width="784" height="562" alt="image" src="https://github.com/user-attachments/assets/98443ccb-532f-4db5-8ffa-a24be16c2e17" /> | ![Game]<img width="782" height="562" alt="image" src="https://github.com/user-attachments/assets/ae43d21a-8993-4678-b6bc-d95853211bf0" /> | ![Bonus] <img width="787" height="563" alt="image" src="https://github.com/user-attachments/assets/4d795520-f5f4-4eb3-834d-2693610b1b10" />
-
+## 👤 Autor
 
 **Mauricio** Estudiante de Desarrollo de Software
+[Linkedin](https://www.linkedin.com/in/mauricio-vera-6b621b248/)
