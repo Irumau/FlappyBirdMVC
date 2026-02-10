@@ -51,7 +51,7 @@ La lógica no está aglomerada. Se divide en gestores específicos:
 ### Pasos
 1.  Clonar el repositorio:
     ```bash
-    git clone [https://github.com/TU_USUARIO/TU_REPO.git](https://github.com/TU_USUARIO/TU_REPO.git)
+    git clone [https://github.com/Irumau/FlappyBirdMVC]((https://github.com/Irumau/FlappyBirdMVC)
     ```
 2.  Abrir el proyecto en tu IDE favorito (NetBeans, IntelliJ, Eclipse).
 3.  Ejecutar la clase principal: `com.mycompany.flappybird.FlappyBird`.
